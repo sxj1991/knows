@@ -1,0 +1,9 @@
+server:
+  port: 7600
+  servlet:
+    context-path: /ks/
+spring:
+  profiles:
+    active: dev
+  application:
+    name: knows
