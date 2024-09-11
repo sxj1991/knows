@@ -225,7 +225,7 @@
         <mxCell id="nstGioj7b0INnl22QBqY-49" value="tftp-toolbix" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.health_monitoring" vertex="1" parent="1">
           <mxGeometry x="192" y="257" width="50" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="nstGioj7b0INnl22QBqY-50" value="用户接收文件服务器" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.distribution_point" vertex="1" parent="1">
+        <mxCell id="nstGioj7b0INnl22QBqY-50" value="用户接收文件服务器" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#32699e;shape=mxgraph.mscae.system_center.distribution_point" vertex="1" parent="1">
           <mxGeometry x="1053" y="89" width="44" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nstGioj7b0INnl22QBqY-52" value="上传目录" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#32699e;shape=mxgraph.azure.server_rack" vertex="1" parent="1">
